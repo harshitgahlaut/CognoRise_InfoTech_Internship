@@ -24,7 +24,7 @@ The primary aim of this analysis is to assess the repercussions of the COVID-19 
 - Exploratory Data Analysis
 - Data Visulisation
 
-## **Conclusions**
+## **Observations**
 ### *Unemployment Rate*
 - Mean Unemployment Rate: 11.79%
 - Median Unemployment Rate: 8.35%
