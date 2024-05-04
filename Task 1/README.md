@@ -65,6 +65,8 @@ The primary aim of this analysis is to assess the repercussions of the COVID-19 
     - Bihar
     - Haryana
     - Tamil Nadu
-
+ 
+## End
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
 
 
