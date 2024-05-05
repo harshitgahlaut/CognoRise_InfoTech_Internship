@@ -22,7 +22,10 @@ PowerBI
 
 The dataset can be found at [Kaggle](https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles)
 
-## Data Visulisation
+## Data Visualisation
+
+![Dashboard](https://github.com/harshitgahlaut/CognoRise_InfoTech_Internship/assets/142779836/14bb19b9-8be5-4d34-9e8e-940fb5954961)
+
 
 ## End
 Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
