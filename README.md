@@ -1,1 +1,1 @@
-# CognoRise_InfoTech_Internship
+# CognoRise InfoTech Internship Projects
