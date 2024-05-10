@@ -1,4 +1,4 @@
-# Employees Salary Analysis Project
+# Employees Salary Analysis
 
 ![shutterstock_544579708-scaled](https://github.com/harshitgahlaut/CognoRise_InfoTech_Internship/assets/142779836/020122f1-6e3e-4cb9-8490-ac08872be1ac)
 
